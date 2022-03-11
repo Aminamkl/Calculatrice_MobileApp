@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="result">0</string>
+</resources>
